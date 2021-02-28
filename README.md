@@ -33,3 +33,6 @@ O evento NLW tem como objetivo atingir o "próximo nível" do desenvolvimento em
 <a id="prints"></a>
 <h3>Screenshots</h3>
 
+<img src="https://i.imgur.com/BIgA8S0.png"/><br><br><br>
+<img src="https://i.imgur.com/qyt8dlO.png"/><br><br><br>
+<img src="https://i.imgur.com/llzbpcm.png"/><br><br><br>
