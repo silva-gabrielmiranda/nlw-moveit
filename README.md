@@ -1,5 +1,5 @@
 <h1 align="center">Move.it | Next Level Week #4</h1>
-<h1>Em construção 🛠</h1>
+<h2 align="center">Em construção 🛠</h2>
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
