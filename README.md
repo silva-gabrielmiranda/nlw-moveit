@@ -19,7 +19,7 @@ O evento NLW tem como objetivo atingir o "próximo nível" do desenvolvimento em
 - Faça um cópia do repositório: git clone git@github.com:silva-gabrielmiranda/nlw-moveit.git<br>
 - Acesso o repositório em seu equipamento e instale as dependências: yarn install<br>
 - Crie um arquivo .env na raiz do projeto e configure as variáveis de <a href="https://docs.github.com/en/developers/apps/creating-an-oauth-app">OAuth do GitHub</a><br>
-- Na criação do app OAuth do GitHub defina a Authorization callback URL como: http://localhost:3000
+- Na criação do app OAuth do GitHub defina a Authorization callback URL como: http://localhost:3000<br>
 - Inicie o projeto: yarn dev<br>
 
 <a id="tecnologias"></a>
